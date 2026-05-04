@@ -1,0 +1,14 @@
+# Core article reproduction (local models, no paid API required)
+torch>=2.0.0
+transformers>=4.36.0
+sentence-transformers>=2.2.0
+sympy>=1.12
+
+# LangGraph portfolio layer (optional graph execution)
+langgraph>=0.2.0
+
+# Optional OpenAI path (solver falls back if key missing)
+openai>=1.0.0
+
+# Dev
+pytest>=7.0.0

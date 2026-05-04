@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "llm-reasoning-scaffold"
+version = "0.1.0"
+description = "Agentic scaffold for math word problems (MAWPS): semantic neighbors, peer patching, and LangGraph-ready workflows."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = []
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0",
+    "black>=24.0",
+    "ruff>=0.4.0",
+]
+
+[tool.black]
+line-length = 100
+target-version = ["py310"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+# E/F: pycodestyle/pyflakes; I: isort. Deliberately omit "UP" to avoid large typing-style rewrites.
+[tool.ruff.lint]
+select = ["E", "F", "I"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

@@ -1,0 +1,1422 @@
+[
+  {
+    "problem": "John earned N_00 dollars for each lawn he mowed . If he had N_01 lawns to mow , but forgot to mow N_02 of them , how much money did he actually earn ?",
+    "equation": "N_00 * ( N_01 - N_02 )"
+  },
+  {
+    "problem": "Dave had to wash N_00 short sleeve shirts and N_01 long sleeve shirts before school . If he had only washed N_02 of them by the time school started , how many did he not wash ?",
+    "equation": "N_00 + N_01 - N_02"
+  },
+  {
+    "problem": "Professor Ellison weighed N_00 pieces of metal for an experiment . The piece of iron weighed N_01 pounds and the piece of aluminum weighed N_02 pound . How much more did the piece of iron weigh than the piece of aluminum ?",
+    "equation": "N_01 - N_02"
+  },
+  {
+    "problem": "A lawyer bills her clients N_00 dollars per hour of service . If a client 's case requires N_01 hours to complete , use proportion to calculate how much the client will owe the lawyer in dollars .",
+    "equation": "N_00 * N_01"
+  },
+  {
+    "problem": "While making pastries , a bakery used N_00 bag of wheat flour and N_01 bag of white flour . How many bags of flour did the bakery use in all ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "At the fair there were N_00 people in line for the bumper cars . If N_01 of them got tired of waiting and left and N_02 more got in line , how many people would be in line ?",
+    "equation": "N_00 + N_02 - N_01"
+  },
+  {
+    "problem": "Emily was planting vegetables in her garden . She started with N_00 seeds and planted N_01 of them in the big garden and in each of her small gardens put N_02 seeds each . How many small gardens did Emily have ?",
+    "equation": "( N_00 - N_01 ) / N_02"
+  },
+  {
+    "problem": "Recently , the value of Kate 's retirement fund decreased by $ N_00 . If her fund was worth $ N_01 before , how much is it worth now ?",
+    "equation": "N_01 - N_00"
+  },
+  {
+    "problem": "The school is planning a field trip . There are N_00 students and N_01 seats on each school bus . How many buses are needed to take the trip ?",
+    "equation": "N_00 / N_01"
+  },
+  {
+    "problem": "For the school bake sale Wendy made pastries . She baked N_00 cupcakes and N_01 cookies . After the sale she had N_02 to take back home . How many pastries did she sell ?",
+    "equation": "N_00 + N_01 - N_02"
+  },
+  {
+    "problem": "Norma has N_00 cards . She loses N_01 . How many cards will Norma have ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "Lana 's favorite band was holding a concert where tickets were N_00 dollars each . Lana bought N_01 tickets for herself and her friends and N_02 extra tickets in case anyone else wanted to go . How much did she spend ?",
+    "equation": "N_00 * ( N_01 + N_02 )"
+  },
+  {
+    "problem": "Tom purchased a Batman game for $ N_00 , and a Superman game for $ N_01 . Tom already owns N_02 games . How much did Tom spend on video games ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "There are N_00 short trees and N_01 tall trees currently in the park . Park workers will plant N_02 short trees today . How many short trees will the park have when the workers are finished ?",
+    "equation": "N_00 + N_02"
+  },
+  {
+    "problem": "William has N_00 marbles . He shares N_01 with Theresa . How many marbles will William have ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "A vase can hold N_00 flowers . If you had N_01 carnations and N_02 roses , how many vases would you need to hold the flowers ?",
+    "equation": "( N_01 + N_02 ) / N_00"
+  },
+  {
+    "problem": "Kathleen went to the store N_00 times last month . She buys N_01 bottle caps each time she goes to the store . How many bottle caps did Kathleen buy last month ?",
+    "equation": "N_00 * N_00"
+  },
+  {
+    "problem": "Frank was collecting cans for recycling . On Saturday he filled N_00 bags up and on Sunday he filled N_01 more bags . If each bag had N_02 cans in it , how many cans did he pick up total ?",
+    "equation": "N_00 * ( N_00 + N_01 )"
+  },
+  {
+    "problem": "Tyler had N_00 dogs . Each dog had N_01 puppies . How many puppies does Tyler now have ?",
+    "equation": "N_00 * N_01"
+  },
+  {
+    "problem": "Milford Lake was originally blue because it only had N_00 algae plants . Now there are N_01 algae plants , and the lake has turned green . How many more algae plants are in Milford Lake now ?",
+    "equation": "N_01 - N_00"
+  },
+  {
+    "problem": "Stanley ran N_00 mile and walked N_01 mile . How much farther did Stanley run than walk ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "Emily had N_00 coloring books . If she gave away N_01 of them , but then bought N_02 more , how many would she have total ?",
+    "equation": "N_00 + N_02 - N_01"
+  },
+  {
+    "problem": "Mrs. Hilt bought N_00 pizzas . Each pizza had N_01 slices . How many total slices of pizza did she have ?",
+    "equation": "N_00 * N_01"
+  },
+  {
+    "problem": "Bianca had N_00 coloring books . If she gave away N_01 of them , but then bought N_02 more , how many would she have total ?",
+    "equation": "N_00 + N_02 - N_01"
+  },
+  {
+    "problem": "For Halloween Emily received N_00 pieces of candy . She ate N_01 pieces then placed the rest into piles with N_02 in each pile . How many piles could she make ?",
+    "equation": "( N_00 - N_01 ) / N_02"
+  },
+  {
+    "problem": "At a restaurant each adult meal costs $ N_00 and kids eat free . If a group of N_01 people came in and N_02 were kids , how much would it cost for the group to eat ?",
+    "equation": "N_00 * ( N_01 - N_02 )"
+  },
+  {
+    "problem": "At a restaurant each adult meal costs $ N_00 and kids eat free . If a group of N_01 people came in and N_02 were kids , how much would it cost for the group to eat ?",
+    "equation": "N_00 * ( N_01 - N_02 )"
+  },
+  {
+    "problem": "Sam had to wash N_00 short sleeve shirts and N_01 long sleeve shirts before school . If he had only washed N_02 of them by the time school started , how many did he not wash ?",
+    "equation": "N_00 + N_01 - N_02"
+  },
+  {
+    "problem": "Maggi had N_00 packages of cupcakes . There are N_01 cupcakes in each package . She ate N_02 cupcakes . How many are left ?",
+    "equation": "N_00 * N_01"
+  },
+  {
+    "problem": "George has N_00 boxes of eggs . Each box holds N_01 eggs and there are N_02 boxes in a case . How many eggs does George have ?",
+    "equation": "N_00 * N_01"
+  },
+  {
+    "problem": "Isabel had N_00 homework problems . She finished N_01 of them but still had N_02 pages of problems to do . If each page has the same number of problems on it , how many problems are on each page ?",
+    "equation": "( N_00 - N_01 ) / N_02"
+  },
+  {
+    "problem": "Sally picked N_00 lemons and Mary picked N_01 lemons from the lemon tree . How many lemons were picked in total ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "In fourth grade there were N_00 students at the start of the year . During the year N_01 students left and N_02 new students came to school . How many students were in fourth grade at the end ?",
+    "equation": "N_00 + N_02 - N_01"
+  },
+  {
+    "problem": "Zoe baked N_00 brownies , but needed N_01 total for her party . If she used N_02 cups of flour on each one , how much cups of flour does she still need ?",
+    "equation": "N_02 * ( N_01 - N_00 )"
+  },
+  {
+    "problem": "Mary picked N_00 oranges and Jason picked N_01 oranges . Keith picked N_02 apples . How many oranges were picked in all ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "At lunch a waiter had N_00 customers and N_01 of them did n't leave a tip . If he got $ N_02 each from the ones who did tip , how much money did he earn ?",
+    "equation": "N_02 * ( N_00 - N_01 )"
+  },
+  {
+    "problem": "Sara grew N_00 pumpkins , but the rabbits ate N_01 pumpkins . How many pumpkins does Sara have left ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "Fred has N_00 baseball cards . Keith bought N_01 of Fred 's baseball cards . How many baseball cards does Fred have now ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "There are N_00 rulers and N_01 crayons in the drawer . Tim placed N_02 rulers in the drawer . How many rulers are now there in all ?",
+    "equation": "N_00 + N_02"
+  },
+  {
+    "problem": "Mrs. Hilt is baking bread . She needs N_00 cups of flour to bake N_01 loaves of bread . How much flour will she need to make one loaf of bread ?",
+    "equation": "N_00 / N_01"
+  },
+  {
+    "problem": "There are N_00 scissors and N_01 pencils in the drawer . Dan placed N_02 scissors in the drawer . How many scissors are now there in total ?",
+    "equation": "N_00 + N_02"
+  },
+  {
+    "problem": "Randy has N_00 blocks . He uses N_01 blocks to build a tower . How many blocks are left ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "Ernest starts with N_00 crayons . Jennifer takes N_01 away . How many crayons does Ernest end with ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "Sara has saved N_00 quarters from washing cars . How many cents does Sara have ?",
+    "equation": "N_00 * 25.0"
+  },
+  {
+    "problem": "Janet was playing a video game and had N_00 lives . In a hard part of the game she lost N_01 lives . If she got N_02 more lives in the next level , how many lives would she have ?",
+    "equation": "N_00 + N_02 - N_01"
+  },
+  {
+    "problem": "Diane is a beekeeper . Last year , she harvested N_00 pounds of honey . This year , she bought some new hives and increased her honey harvest by N_01 pounds . How many pounds of honey did Diane harvest this year ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "Hayley had N_00 meatballs on her plate . Kirsten stole some of her meatballs . Now she has N_01 meatballs on her plate . How many meatballs did Kirsten steal ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "Joan joined her school 's band . She bought a trumpet for $ N_00 , a music tool for $ N_01 , and a song book which was $ N_02 . Joan found $ N_03 in her pocket . How much did Joan spend at the music store ?",
+    "equation": "N_00 + N_01 + N_02"
+  },
+  {
+    "problem": "Will was working as a sacker at a grocery store where he made N_00 dollars an hour . On Monday he worked N_01 hours and on Tuesday he worked N_02 hours . How much money did Will make in those two days ?",
+    "equation": "N_00 * ( N_00 + N_02 )"
+  },
+  {
+    "problem": "Gordon bought N_00 pounds of fruit for a class party . The class ate N_01 pounds of the fruit . How much fruit is ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "A toy store had N_00 giant stuffed bears in stock when they got another shipment with N_01 bears in it . The put the bears onto shelves with N_02 on each shelf . How many shelves did they use ?",
+    "equation": "( N_00 + N_01 ) / N_02"
+  },
+  {
+    "problem": "Bridget has N_00 Skittles . Henry has N_01 Skittles . If Henry gives all of his Skittles to Bridget , how many Skittles will Bridget have ?",
+    "equation": "N_00 + N_00"
+  },
+  {
+    "problem": "Paul had saved up N_00 dollars . If he received another N_01 dollars for his allowance , how many N_02 dollar toys could he buy ?",
+    "equation": "( N_00 + N_01 ) / N_02"
+  },
+  {
+    "problem": "Paul had saved up N_00 dollars . If he received another N_01 dollars for his allowance , how many N_02 dollar toys could he buy ?",
+    "equation": "( N_00 + N_01 ) / N_02"
+  },
+  {
+    "problem": "Jason had N_00 quarters in his bank . His dad gave him N_01 more quarters . How many quarters does he have now ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "N_00 birds were sitting on the fence . N_01 more birds came to join them . How many birds are sitting on the fence ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "George was working as a sacker at a grocery store where he made N_00 dollars an hour . On Monday he worked N_01 hours and on Tuesday he worked N_02 hours . How much money did George make in those two days ?",
+    "equation": "N_00 * ( N_01 + N_02 )"
+  },
+  {
+    "problem": "Mrs. Santiago has N_00 red roses . Mrs. Garrett has N_01 . How many more red roses does Mrs. Santiago have than Mrs. Garrett ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "A restaurant made N_00 hamburgers to serve during lunch . Only N_01 were actually served . How many hamburgers were over from lunch ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "Bob \u2019 s car gets N_00 kilometers per gallon . How far can he drive on N_01 gallons of gas ?",
+    "equation": "N_00 * N_00"
+  },
+  {
+    "problem": "Nancy 's class is going on a field trip to the zoo . If each van can hold N_00 people and there are N_01 students and N_02 adults going , how many vans will they need ?",
+    "equation": "( N_01 + N_02 ) / N_00"
+  },
+  {
+    "problem": "N_00 people are watching a movie in a theater . The theater has N_01 seats . How many seats are empty in the theater ?",
+    "equation": "N_01 - N_00"
+  },
+  {
+    "problem": "In a class of N_00 students , N_01 received a grade of A . What percent of the students received A 's ?",
+    "equation": "N_01 / N_00 * 100.0"
+  },
+  {
+    "problem": "Will made N_00 dollars mowing lawns over the summer . If he spent N_01 dollars buying new mower blades , how many N_02 dollar games could he buy with the money he had left ?",
+    "equation": "( N_00 - N_01 ) / N_02"
+  },
+  {
+    "problem": "The farmers reported that they harvest N_00 sacks of apples from each of the N_01 sections of the orchard daily . How many sacks are harvested every day ?",
+    "equation": "N_00 * N_01"
+  },
+  {
+    "problem": "In a video game , each enemy defeated gives you N_00 points . If a level has N_01 enemies total and you destroy all but N_02 of them , how many points would you earn ?",
+    "equation": "N_00 * ( N_01 - N_02 )"
+  },
+  {
+    "problem": "Oliver had N_00 socks . If he threw away N_01 old ones that did n't fit and bought N_02 new ones , how many socks would he have ?",
+    "equation": "N_00 + N_02 - N_01"
+  },
+  {
+    "problem": "A new building needed N_00 windows . The builder had already installed N_01 of them . If it takes N_02 hours to install each window , how long will it take him to install the rest ?",
+    "equation": "N_01 * ( N_00 - N_01 )"
+  },
+  {
+    "problem": "A group of science students went on a field trip . They took N_00 vans and N_01 buses . There were N_02 people in each van and N_03 people in each bus . How many people went on the field trip ?",
+    "equation": "N_00 * N_00 + N_01 * N_03"
+  },
+  {
+    "problem": "A toy store had N_00 giant stuffed bears in stock when they got another shipment with N_01 bears in it . The put the bears onto shelves with N_02 on each shelf . How many shelves did they use ?",
+    "equation": "( N_00 + N_01 ) / N_02"
+  },
+  {
+    "problem": "Mary had N_00 nickels in her bank . Her dad gave her N_01 nickels . How many nickels does Mary have now ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "Soft drinks are on sale at the grocery store for N_00 dollars for a N_01 pack . How much would each can of soft drink cost if purchased individually , in dollars ?",
+    "equation": "N_00 / N_01"
+  },
+  {
+    "problem": "Christopher strolled N_00 miles at N_01 miles per hour . How long did Christopher stroll ?",
+    "equation": "N_00 / N_01"
+  },
+  {
+    "problem": "Lexie \u2019 s younger brother helped pick up all the paper clips in Lexie \u2019 s room . He was able to collect N_00 paper clips . If he wants to distribute the paper clips in N_01 boxes , how many paper clips will each box contain ?",
+    "equation": "N_00 / N_01"
+  },
+  {
+    "problem": "Craig walked N_00 mile from school to David 's house and N_01 mile from David 's house to his own house . How many miles did Craig walk in all ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "Oliver made N_00 dollars mowing lawns over the summer . If he spent N_01 dollars buying new mower blades , how many N_02 dollar games could he buy with the money he had left ?",
+    "equation": "( N_00 - N_01 ) / N_02"
+  },
+  {
+    "problem": "There are N_00 pencils in the drawer and N_01 pencils on the desk . Dan placed N_02 more pencils on the desk . How many pencils are now there in total ?",
+    "equation": "N_00 + N_01 + N_02"
+  },
+  {
+    "problem": "Tom had N_00 pennies and N_01 dimes in his bank . His dad gave him N_02 dimes and N_03 nickels . How many dimes does he have now ?",
+    "equation": "N_01 + N_02"
+  },
+  {
+    "problem": "Convert N_00 to a percent .",
+    "equation": "N_00 * 100.0"
+  },
+  {
+    "problem": "A store had N_00 oranges in a bin . If they threw away N_01 of the old ones and put N_02 new ones in the bin how many would be in the bin ?",
+    "equation": "N_00 + N_02 - N_01"
+  },
+  {
+    "problem": "A toy store had N_00 giant stuffed bears in stock when they got another shipment with N_01 bears in it . The put the bears onto shelves with N_02 on each shelf . How many shelves did they use ?",
+    "equation": "( N_00 + N_01 ) / N_00"
+  },
+  {
+    "problem": "There are N_00 dogwood trees currently in the park . Park workers will plant N_01 dogwood trees today and N_02 dogwood trees tomorrow . It took N_03 workers to finish the work . How many dogwood trees will the park have when the workers are finished ?",
+    "equation": "N_00 + N_01 + N_02"
+  },
+  {
+    "problem": "For the fifth grade play , the chairs have been put into N_00 rows with N_01 chairs in each row . How many chairs have been put out for the play ?",
+    "equation": "N_00 * N_01"
+  },
+  {
+    "problem": "Deborah is inviting N_00 friends to a party . She has N_01 cookies . How many cookies will each friend get ?",
+    "equation": "N_01 / N_00"
+  },
+  {
+    "problem": "Sean has N_00 whistles . He has N_01 more whistles that Charles . How many whistles does Charles have ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "Sara has N_00 black and N_01 red marbles . Fred took N_02 of Sara 's black marbles . How many black marbles does Sara now have ?",
+    "equation": "N_00 - N_02"
+  },
+  {
+    "problem": "Jason picked N_00 pears , Keith picked N_01 pears , and Mike picked N_02 pears from the pear tree . How many pears were picked in total ?",
+    "equation": "N_00 + N_01 + N_02"
+  },
+  {
+    "problem": "N_00 birds were sitting in a tree . Some more fly up to the tree . Then there were N_01 birds in the tree . How many more fly up to the tree ?",
+    "equation": "N_01 - N_00"
+  },
+  {
+    "problem": "Jason went to N_00 football games this month . He went to N_01 games last month , and plans to go to N_02 games next month . How many games will he attend in all ?",
+    "equation": "N_00 + N_01 + N_02"
+  },
+  {
+    "problem": "A cereal box holds N_00 cups of cereal . Each serving is N_01 cups . How many servings are in the whole box ?",
+    "equation": "N_00 / N_01"
+  },
+  {
+    "problem": "Eric has N_00 boxes of pencils . Each box holds N_01 pencils . How many pencils does Eric have ?",
+    "equation": "N_00 * N_01"
+  },
+  {
+    "problem": "There are N_00 pencils and N_01 crayons in the drawer . Dan took N_02 pencils from the drawer . How many pencils are now in the drawer ?",
+    "equation": "N_00 - N_02"
+  },
+  {
+    "problem": "Tim 's cat had kittens . He gave N_00 to Jessica and N_01 to Sara . He now has N_02 kittens . How many kittens did he have to start with ?",
+    "equation": "N_00 + N_01 + N_02"
+  },
+  {
+    "problem": "For a birthday party Tom bought N_00 regular sodas and N_01 diet sodas . If his fridge would only hold N_02 on each shelf , how many shelves would he fill up ?",
+    "equation": "( N_00 + N_01 ) / N_02"
+  },
+  {
+    "problem": "A new building needed N_00 windows . The builder had already installed N_01 of them . If it takes N_02 hours to install each window , how long will it take him to install the rest ?",
+    "equation": "N_02 * ( N_00 - N_01 )"
+  },
+  {
+    "problem": "When relatives visit Haley and her family , she and her cousins do origami . If she has N_00 origami papers to give away to her N_01 cousins , how many will each receive if she gives everyone the same number of origami papers ?",
+    "equation": "N_00 / N_01"
+  },
+  {
+    "problem": "Marilyn starts with N_00 bottle caps . She shares N_01 with Nancy . How many bottle caps does Marilyn end with ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "There are N_00 children in the classroom , each student will get N_01 pencils . How many pencils will the teacher have to give out ?",
+    "equation": "N_00 * N_01"
+  },
+  {
+    "problem": "April 's discount flowers was having a sale where each flower was N_00 dollars . If Maria bought N_01 roses and N_02 daisies , how much did she spend ?",
+    "equation": "N_00 * ( N_01 + N_02 )"
+  },
+  {
+    "problem": "Our class got N_00 books from the library . Then we got N_01 more books from the library . How many books did our class get from the library ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "Bryan took a look at his books as well . If Bryan has N_00 books in each of his N_01 bookshelves , how many books does he have in total ?",
+    "equation": "N_00 * N_01"
+  },
+  {
+    "problem": "At the arcade , Jerry won N_00 tickets playing ' whack a mole ' and N_01 tickets playing ' skee ball ' . If he spent N_02 of his tickets on a hat , how many tickets does Jerry have left ?",
+    "equation": "N_00 + N_01 - N_02"
+  },
+  {
+    "problem": "Mary has N_00 yellow marbles Joan has N_01 yellow marbles . How many yellow marbles do they have in all ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "For the school bake sale Katie made pastries . She baked N_00 cupcakes and N_01 cookies . After the sale she had N_02 to take back home . How many pastries did she sell ?",
+    "equation": "N_00 + N_01 - N_02"
+  },
+  {
+    "problem": "There are N_00 students trying out for the school 's trivia teams . If N_01 of them did n't get picked for the team and the rest were put into N_02 groups , how many students would be in each group ?",
+    "equation": "( N_00 - N_01 ) / N_02"
+  },
+  {
+    "problem": "Kaleb was selling his old games . He started out with N_00 but sold N_01 of them . He packed the rest up putting N_02 games into each box . How many boxes did he have to use ?",
+    "equation": "( N_00 - N_01 ) / N_02"
+  },
+  {
+    "problem": "Nancy bought N_00 crayons that came in packs of N_01 . How many packs of crayons did Nancy buy ?",
+    "equation": "N_00 / N_01"
+  },
+  {
+    "problem": "The total number of students in year N_00 at a high school is N_01 . There are N_02 more girls than boys . How many boys are there ?",
+    "equation": "( N_01 - N_02 ) / 2.0"
+  },
+  {
+    "problem": "Wendy uploaded N_00 pictures to Facebook . She put N_01 pics into one album and put the rest into N_02 different albums . How many pictures were in each album ?",
+    "equation": "( N_00 - N_01 ) / N_02"
+  },
+  {
+    "problem": "Sarah sold N_00 boxes of Lemon Chalet Cremes . How many cases of N_01 boxes , plus extra boxes does Sarah need ?",
+    "equation": "N_00 / N_01"
+  },
+  {
+    "problem": "Sara had N_00 quarters and N_01 dimes in her bank . Her sister borrowed N_02 dimes . How many dimes does Sara have now ?",
+    "equation": "N_01 - N_00"
+  },
+  {
+    "problem": "Keith has N_00 books . Jason has N_01 books . How many books do they have together ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "James had N_00 stickers . He got some more stickers for his birthday . Then he had N_01 stickers . How many stickers did James get for his birthday ?",
+    "equation": "N_01 - N_00"
+  },
+  {
+    "problem": "Nancy had N_00 homework problems . She finished N_01 of them but still had N_02 pages of problems to do . If each page has the same number of problems on it , how many problems are on each page ?",
+    "equation": "( N_00 - N_01 ) / N_02"
+  },
+  {
+    "problem": "For the school bake sale Paige made pastries . She baked N_00 cupcakes and N_01 cookies . After the sale she had N_02 to take back home . How many pastries did she sell ?",
+    "equation": "N_00 + N_01 - N_02"
+  },
+  {
+    "problem": "Nancy , Melanie , Mary , and Alyssa each bought N_00 baseball cards , which come in packs of N_01 . How many packs of baseball cards do they have in all ?",
+    "equation": "4.0 * N_00 / N_01"
+  },
+  {
+    "problem": "At the fair Adam bought N_00 tickets . After riding the ferris wheel he had N_01 tickets left . If each ticket cost N_02 dollars , how much money did Adam spend riding the ferris wheel ?",
+    "equation": "N_02 * ( N_00 - N_01 )"
+  },
+  {
+    "problem": "There were N_00 friends playing a video game online when N_01 players quit . If each player left had N_02 lives , how many lives did they have total ?",
+    "equation": "N_02 * ( N_00 - N_01 )"
+  },
+  {
+    "problem": "For the school bake sale Amy made pastries . She baked N_00 cupcakes and N_01 cookies . After the sale she had N_02 to take back home . How many pastries did she sell ?",
+    "equation": "N_00 + N_01 - N_02"
+  },
+  {
+    "problem": "In fourth grade there were N_00 students at the start of the year . During the year N_01 students left and N_02 new students came to school . How many students were in fourth grade at the end ?",
+    "equation": "N_00 + N_02 - N_01"
+  },
+  {
+    "problem": "Wendy was playing a video game and had N_00 lives . In a hard part of the game she lost N_01 lives . If she got N_02 more lives in the next level , how many lives would she have ?",
+    "equation": "N_00 + N_02 - N_01"
+  },
+  {
+    "problem": "The total number of students absent from B. Jones High School on a Monday after a significant snow fall was N_00 . The total attendance that day was N_01 . How many students , in total , attend B. Jones High School ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "A waiter had N_00 customers in his section . If N_01 of them left and the rest of his tables had N_02 people at each table , how many tables did he have ?",
+    "equation": "( N_00 - N_01 ) / N_02"
+  },
+  {
+    "problem": "Joan grew N_00 carrots and N_01 watermelons . Jessica grew N_02 carrots . How many carrots did they grow in all ?",
+    "equation": "N_00 + N_02"
+  },
+  {
+    "problem": "Haley has N_00 magazines in her cabinet . She plans to send it to the recycling office in their area . If she places it in boxes which can contain N_01 magazines , how many boxes will Hayley use ?",
+    "equation": "N_00 / N_01"
+  },
+  {
+    "problem": "Jane \u2019 s dad brought home N_00 marble potatoes . If Jane \u2019 s mom made potato salad for lunch and served an equal amount of potatoes to Jane , herself and her husband , how many potatoes did each of them have ?",
+    "equation": "N_00 / 3.0"
+  },
+  {
+    "problem": "Paige had N_00 math problems and N_01 science problems for homework . If she finished N_02 of the problems at school , how many problems did she have to do for homework ?",
+    "equation": "N_00 + N_01 - N_02"
+  },
+  {
+    "problem": "Katherine has N_00 bottle caps . N_01 are eaten by a hippopotamus . How many bottle caps will Katherine have ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "Joshua has N_00 bottle caps . He buys N_01 more . How many bottle caps does Joshua have in all ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "There are N_00 baskets . There are N_01 apples in each basket . How many apples are there in all ?",
+    "equation": "N_00 * N_01"
+  },
+  {
+    "problem": "Paige picked N_00 flowers for her friend \u2019 s wedding . She was making bouquets with N_01 flowers in each one . If N_02 of the flowers wilted before the wedding , how many bouquets could she still make ?",
+    "equation": "( N_00 - N_02 ) / N_01"
+  },
+  {
+    "problem": "A magician was selling magic card decks for N_00 dollars each . If he started with N_01 decks and by the end of the day he had N_02 left , how much money did he earn ?",
+    "equation": "N_00 * ( N_01 - N_02 )"
+  },
+  {
+    "problem": "Martin has N_00 boxes of crayons . Each box holds N_01 crayons . How many crayons does Martin have ?",
+    "equation": "N_00 * N_01"
+  },
+  {
+    "problem": "Elisa has N_00 dollars . How many more dollars does she have to earn to have N_01 dollars ?",
+    "equation": "N_01 - N_00"
+  },
+  {
+    "problem": "Vanessa and her friends were recycling paper for their class . For every N_00 pounds they recycled they earned one point . If Vanessa recycled N_01 pounds and her friends recycled N_02 pounds , how many points did they earn ?",
+    "equation": "( N_01 + N_02 ) / N_00"
+  },
+  {
+    "problem": "There were N_00 girls and N_01 boys on the playground at recess . How many children were there in all ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "While taking inventory at her pastry shop , Kelly realizes that she had N_00 box of baking powder yesterday , but the supply is now down to N_01 box . How much more baking powder did Kelly have yesterday ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "Marilyn has N_00 bananas that must be put away in boxes . Daniel comes to help and brings N_01 cookies to share with Marilyn . If there are N_02 boxes , how many bananas must go in each box ?",
+    "equation": "N_00 / N_02"
+  },
+  {
+    "problem": "Mika had N_00 stickers . She bought N_01 stickers from a store in the mall and got N_02 stickers for her birthday . Then Mika gave N_03 of the stickers to her sister and used N_04 to decorate a greeting card . How many stickers does Mika have left ?",
+    "equation": "N_00 + N_01 + N_00 - ( N_03 + N_04 )"
+  },
+  {
+    "problem": "On the first day of the week Pat had N_00 stickers . Pat earned N_01 more during the week . How many stickers did Pat have at the end of the week ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "Sean has N_00 blocks . N_01 are eaten by a hippopotamus . How many blocks will Sean have ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "A florist had N_00 roses . If she sold N_01 of them and then later picked N_02 more , how many roses would she have ?",
+    "equation": "N_00 + N_02 - N_01"
+  },
+  {
+    "problem": "There are N_00 marbles in each box . How many marbles are in N_01 boxes ?",
+    "equation": "N_00 * N_01"
+  },
+  {
+    "problem": "It takes N_00 feet of cotton to make a tee - shirt . How many tee - shirts can be made with N_01 feet of material ?",
+    "equation": "N_01 / N_00"
+  },
+  {
+    "problem": "Connie has N_00 marbles . Juan has N_01 more marbles than Connie . How many marbles does Juan have ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "N_00 people are going to the zoo . There are N_01 cars to take people to the zoo . How many will go in each car if the same number go in each car ?",
+    "equation": "N_00 / N_01"
+  },
+  {
+    "problem": "In fourth grade there were N_00 students at the start of the year . During the year N_01 students left and N_02 new students came to school . How many students were in fourth grade at the end ?",
+    "equation": "N_00 + N_01 - N_01"
+  },
+  {
+    "problem": "For the school bake sale Katie made N_00 cupcakes . If she sold N_01 of them and then made N_02 more , how many cupcakes would she have ?",
+    "equation": "N_00 + N_01 - N_01"
+  },
+  {
+    "problem": "Wanda has N_00 blocks . Theresa gives Wanda N_01 more . How many blocks does Wanda have in all ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "Charles has N_00 apples . Jessica gives Charles N_01 more . How many apples does Charles have in all ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "Each child has N_00 pencils . If there are N_01 children , how many pencils are there in total ?",
+    "equation": "N_00 * N_01"
+  },
+  {
+    "problem": "April 's discount flowers was having a sale where each flower was N_00 dollars . If Zoe bought N_01 roses and N_02 daisies , how much did she spend ?",
+    "equation": "N_00 * ( N_01 + N_02 )"
+  },
+  {
+    "problem": "Wendy bought N_00 new chairs and N_01 new tables for her house . If she spent N_02 minutes on each piece furniture putting it together , how many minutes did it take her to finish ?",
+    "equation": "N_02 * ( N_00 + N_00 )"
+  },
+  {
+    "problem": "My dog had some bones . Then , he dug up N_00 bones . Now he has N_01 bones . How many bones did he start with ?",
+    "equation": "N_01 - N_00"
+  },
+  {
+    "problem": "Rachel bought two coloring books . One had N_00 pictures and the other had N_01 . After one week she had already colored N_02 of the pictures . How many pictures does she still have to color ?",
+    "equation": "N_00 + N_01 - N_02"
+  },
+  {
+    "problem": "Find the product of N_00 , N_01 , N_02 and N_03 .",
+    "equation": "N_00 * N_01 * N_02 * N_03"
+  },
+  {
+    "problem": "Anthony has N_00 pencils . Kathryn gives Anthony N_01 more . How many pencils does Anthony have in all ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "Joan picked N_00 apples from the orchard , and gave N_01 apples to Melanie . How many apples does Joan have now ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "Joan had N_00 Pokemon cards , and N_01 were torn . Sara bought N_02 of Joan 's Pokemon cards . How many Pokemon cards does Joan have now ?",
+    "equation": "N_00 - N_02"
+  },
+  {
+    "problem": "Pamela bought N_00 ounces of sugar , and she spilled N_01 ounces of it on the floor . How much is ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "Alyssa went to N_00 soccer games this year , but missed N_01 . She went to N_02 games last year and plans to go to N_03 games next year . How many soccer games will Alyssa go to in all ?",
+    "equation": "N_00 + N_02 + N_03"
+  },
+  {
+    "problem": "The selling price of a pair of pants is N_00 dollars . If the store paid N_01 dollars less for the pants , find the price that the store paid , in dollars .",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "There are N_00 cards . N_01 cards more are added . How many are there total ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "Sara goes fishing with Melanie . Sara catches N_00 trout . Melanie catches N_01 times as many trout as Sara . How many trout did Melanie catch ?",
+    "equation": "N_00 * N_01"
+  },
+  {
+    "problem": "A pet store had N_00 siamese cats and N_01 house cats . During a sale they sold N_02 cats . How many cats do they have left ?",
+    "equation": "N_00 + N_01 - N_02"
+  },
+  {
+    "problem": "Ned bought N_00 boxes of chocolate candy and gave N_01 to his little brother . If each box has N_02 pieces inside it , how many pieces did Ned still have ?",
+    "equation": "N_02 * ( N_00 - N_01 )"
+  },
+  {
+    "problem": "At the arcade Edward won N_00 tickets . If he spent N_01 tickets on a beanie and later won N_02 more tickets , how many would he have ?",
+    "equation": "N_00 + N_01 - N_01"
+  },
+  {
+    "problem": "There are N_00 eggs in each box . How many eggs are in N_01 boxes ?",
+    "equation": "N_00 * N_01"
+  },
+  {
+    "problem": "Sara had N_00 quarters in her bank . Her dad gave her N_01 quarters . How many quarters does she have now ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "Dan picked N_00 limes and gave Sara N_01 of the limes . How many limes does Dan have now ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "Our watermelons have N_00 seeds each . If we have N_01 watermelons , how many seeds should there be when all seeds are taken out of the watermelons ?",
+    "equation": "N_00 * N_01"
+  },
+  {
+    "problem": "Clarence has N_00 tickets . He gives N_01 to Eugene . How many tickets will Clarence have ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "At the beach , Janet and her sister both built sandcastles and then measured their heights . Janet 's sandcastle was N_00 feet tall and her sister 's was N_01 feet tall . How much taller was Janet 's sandcastle than her sister 's ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "There school 's baseball team had N_00 new players and N_01 returning players . If the coach put them into groups with N_02 players in each group , how many groups would there be ?",
+    "equation": "( N_00 + N_01 ) / N_02"
+  },
+  {
+    "problem": "Paco 's Countertop Company purchased pieces of marble from a quarry . The weights of the pieces they purchased were N_00 ton , N_01 ton , and N_02 ton . How many tons of marble did Paco 's Countertop Company purchase in all ?",
+    "equation": "N_00 + N_00 + N_02"
+  },
+  {
+    "problem": "A new virus is released on the internet . The administrator of a department 's LAN is given N_00 minutes by a manager to estimate the impact . The administrator samples N_01 of the PCs connected to the LAN and finds that N_02 are infected . Use a proportion to estimate the number of infected PCs if there are a total of N_03 PCs connected to the LAN .",
+    "equation": "N_03 * ( N_02 / N_01 )"
+  },
+  {
+    "problem": "Joan has N_00 green and N_01 red marbles . Fred took N_02 of Joan 's green marbles . How many green marbles does Joan now have ?",
+    "equation": "N_00 - N_02"
+  },
+  {
+    "problem": "Maria has N_00 boxes of eggs . Each box holds N_01 eggs and there are N_02 boxes in a case . How many eggs does Maria have ?",
+    "equation": "N_00 * N_01"
+  },
+  {
+    "problem": "A bee has N_00 legs . How many legs do N_01 bees have ?",
+    "equation": "N_00 * N_01"
+  },
+  {
+    "problem": "There were N_00 boys and N_01 girls on the playground at recess . How many children were on the playground at recess ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "Sarah has N_00 boxes of apples . Each box holds N_01 apples . How many apples does Sarah have ?",
+    "equation": "N_00 * N_00"
+  },
+  {
+    "problem": "There school 's baseball team had N_00 new players and N_01 returning players . If the coach put them into groups with N_02 players in each group , how many groups would there be ?",
+    "equation": "( N_00 + N_01 ) / N_02"
+  },
+  {
+    "problem": "Marie starts with N_00 erasers . She loses N_01 . How many erasers does Marie end with ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "Sam has N_00 books . Joan has N_01 books . How many books do they have together ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "Amy had N_00 music files and N_01 video files on her flash drive . If she deleted N_02 of the files , how many files were still on her flash drive ?",
+    "equation": "N_00 + N_01 - N_02"
+  },
+  {
+    "problem": "A garden has N_00 rows and N_01 columns of bean plans . How many plants are there in all ?",
+    "equation": "N_00 * N_01"
+  },
+  {
+    "problem": "A DVD book holds N_00 DVDs . There are N_01 DVDs already in the book . How many more DVDs can be put in the book ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "Allen , Shiela \u2019 s brother , likes to play with blocks . Shiela repainted Allen \u2019 s old blocks in different colors . If Allen has N_00 identical blocks and there are N_01 blocks for every color of paint used , how many colors did Shiela use ?",
+    "equation": "N_00 / N_01"
+  },
+  {
+    "problem": "The school cafeteria ordered N_00 red apples and N_01 green apples for students lunches . But , if only N_02 students wanted fruit , how many extra did the cafeteria end up with ?",
+    "equation": "N_00 + N_01 - N_02"
+  },
+  {
+    "problem": "Mrs. Hilt has N_00 markers . They are divided equally into N_01 packages . Mrs. Hilt wants to know how many markers are in each package ?",
+    "equation": "N_00 / N_01"
+  },
+  {
+    "problem": "The Litter Patrol picked up N_00 glass bottles and N_01 aluminum cans on Saturday . How many pieces of litter did they pick up altogether ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "April 's discount flowers was having a sale where each flower was N_00 dollars . If Robin bought N_01 roses and N_02 daisies , how much did she spend ?",
+    "equation": "N_00 * ( N_01 + N_02 )"
+  },
+  {
+    "problem": "Mike worked N_00 hours , each day , for N_01 days . How many hours did he work in total ?",
+    "equation": "N_00 * N_01"
+  },
+  {
+    "problem": "There are N_00 walnut trees currently in the park . Park workers will plant N_01 walnut trees today . How many walnut trees will the park have when the workers are finished ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "A trivia team had N_00 members total , but during a game N_01 members did n't show up . If each member that did show up scored N_02 points , how many points were scored total ?",
+    "equation": "N_02 * ( N_00 - N_01 )"
+  },
+  {
+    "problem": "Third - grade students went to a concert in N_00 buses . Each bus took N_01 students . How many students went to the concert ?",
+    "equation": "N_00 * N_01"
+  },
+  {
+    "problem": "Joyce has N_00 eggs . Marie gives Joyce N_01 more . Later , Joyce buys N_02 erasers at the store . How many eggs does Joyce have in all ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "You deposit N_00 dollars in a savings account that pays an annual interest rate of N_01 % . How much simple interest would you earn in N_02 years , in dollars ?",
+    "equation": "N_00 * N_01 * N_02 * 0.01"
+  },
+  {
+    "problem": "There are N_00 dogwood trees currently in the park . Park workers will plant N_01 dogwood trees today and N_02 dogwood trees tomorrow . How many dogwood trees will the park have when the workers are finished ?",
+    "equation": "N_00 + N_01 + N_02"
+  },
+  {
+    "problem": "Henry earned N_00 dollars for each lawn he mowed . If he had N_01 lawns to mow , but forgot to mow N_02 of them , how much money did he actually earn ?",
+    "equation": "N_00 * ( N_01 - N_02 )"
+  },
+  {
+    "problem": "Eric has N_00 erasers . If he shares them among N_01 friends , how many erasers does each friend get ?",
+    "equation": "N_00 / N_01"
+  },
+  {
+    "problem": "A truck carrying N_00 pounds of sand travels to a construction yard and loses N_01 pounds of sand along the way . How much sand does the truck have when it arrives at the yard ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "There are N_00 cards . N_01 cards more are added . How many are there total ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "Michael has N_00 blocks stored in boxes . If there are N_01 boxes , how many blocks must go in each box ?",
+    "equation": "N_00 / N_01"
+  },
+  {
+    "problem": "For homework Faye had N_00 math problems and N_01 spelling problems . If she can finish N_02 problems in an hour how long will it take her to finish all the problems ?",
+    "equation": "( N_00 + N_01 ) / N_02"
+  },
+  {
+    "problem": "Kaleb was collecting cans for recycling . On Saturday he filled N_00 bags up and on Sunday he filled N_01 more bags . If each bag had N_02 cans in it , how many cans did he pick up total ?",
+    "equation": "N_02 * ( N_00 + N_00 )"
+  },
+  {
+    "problem": "Luke had N_00 pieces of clothing to wash . He put N_01 of them in one load , but decided to split the rest into N_02 equal loads . How many pieces of clothing could go in each of the small loads ?",
+    "equation": "( N_00 - N_01 ) / N_02"
+  },
+  {
+    "problem": "There are N_00 bottle caps in a box . Marvin takes N_01 bottle caps . How many are left ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "Keith loves trading cards . She bought N_00 packs of Digimon cards for $ N_01 each , and a deck of baseball cards for $ N_02 . How much did Keith spend on cards ?",
+    "equation": "N_00 * N_01 + N_02"
+  },
+  {
+    "problem": "Emily collects N_00 cards . Emily 's father gives Emily N_01 more . Bruce has N_02 apples . How many cards does Emily have ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "Isabella \u2019 s hair is N_00 inches long . By the end of the year her hair is N_01 inches long . How much hair did she grow ?",
+    "equation": "N_01 - N_00"
+  },
+  {
+    "problem": "A waiter had N_00 customers to wait on . If N_01 customers left and he got another N_02 customers , how many customers would he have ?",
+    "equation": "N_00 + N_02 - N_01"
+  },
+  {
+    "problem": "In a video game , each enemy defeated gives you N_00 points . If a level has N_01 enemies total and you destroy all but N_02 of them , how many points would you earn ?",
+    "equation": "N_00 * ( N_01 - N_02 )"
+  },
+  {
+    "problem": "The school cafeteria had N_00 apples . If they used N_01 to make lunch for the students and then bought N_02 more , how many apples would they have ?",
+    "equation": "N_00 + N_02 - N_01"
+  },
+  {
+    "problem": "Alyssa picked N_00 limes and Mike picked N_01 limes . Tom picked N_02 plums . How many limes were picked in all ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "Connie has N_00 red markers and N_01 blue markers . How many markers does Connie have altogether ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "Mrs. Hilt needs to share $ N_00 equally among N_01 total people . How much money will each person get ?",
+    "equation": "N_00 / N_01"
+  },
+  {
+    "problem": "Evelyn has N_00 marbles . She gets N_01 more from Henry . Later , Evelyn buys N_02 cards at the store . How many marbles does Evelyn have in all ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "Albert has two snakes . The garden snake is N_00 inches long . The boa constrictor is N_01 times longer than the garden snake . How long is the boa constrictor ?",
+    "equation": "N_00 * N_01"
+  },
+  {
+    "problem": "A florist had N_00 roses . If she sold N_01 of them and then later picked N_02 more , how many roses would she have ?",
+    "equation": "N_00 + N_02 - N_01"
+  },
+  {
+    "problem": "A spaceship traveled N_00 light - year from Earth to Planet X and N_01 light - year from Planet X to Planet Y . Then it traveled N_02 light - year from Planet Y back to Earth . How many light - years did the spaceship travel in all ?",
+    "equation": "N_00 + N_01 + N_01"
+  },
+  {
+    "problem": "Sam had N_00 socks . If he threw away N_01 old ones that did n't fit and bought N_02 new ones , how many socks would he have ?",
+    "equation": "N_00 + N_02 - N_01"
+  },
+  {
+    "problem": "There are N_00 bicycles and N_01 tricycles in the storage area at Danny 's apartment building . Each bicycle has N_02 wheels and each tricycle has N_03 wheels . How many wheels are there in all ?",
+    "equation": "N_00 * N_02 + N_01 * N_03"
+  },
+  {
+    "problem": "Shirley starts with N_00 eggs . She buys N_01 more . How many eggs does Shirley end with ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "Megan had N_00 markers . Robert gave her N_01 more markers . How many markers does Megan have altogether ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "There are N_00 stickers on a page . If you have N_01 pages of stickers , how many stickers do you have ?",
+    "equation": "N_00 * N_01"
+  },
+  {
+    "problem": "Tim had N_00 quarters and N_01 nickels in his bank . His dad gave him N_02 nickels and N_03 pennies . How many nickels does Tim have now ?",
+    "equation": "N_01 + N_02"
+  },
+  {
+    "problem": "Evelyn starts with N_00 Skittles . She shares N_01 with Christine . How many Skittles does Evelyn end with ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "If books came from all the N_00 continents that Bryan had been into and he collected N_01 books per continent , how many books does he have from all N_02 continents combined ?",
+    "equation": "N_00 * N_01"
+  },
+  {
+    "problem": "Amy had N_00 music files and N_01 video files on her flash drive . If she deleted N_02 of the files , how many files were still on her flash drive ?",
+    "equation": "N_00 + N_01 - N_02"
+  },
+  {
+    "problem": "There are N_00 erasers in a box . Ernest has N_01 erasers in a bag . Mark takes N_02 erasers out of the box . How many erasers are left in the box ?",
+    "equation": "N_00 - N_00"
+  },
+  {
+    "problem": "You have N_00 balloons and your friend has N_01 balloons . How many more balloons do you have than your friend ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "Evelyn starts with N_00 bottle caps . She finds another N_01 . How many bottle caps does Evelyn end with ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "At the fair there were N_00 people in line for the bumper cars . If N_01 of them got tired of waiting and left and N_02 more got in line , how many people would be in line ?",
+    "equation": "N_00 + N_02 - N_01"
+  },
+  {
+    "problem": "Tiffany baked N_00 brownies , but needed N_01 total for her party . If she used N_02 cups of flour on each one , how much cups of flour does she still need ?",
+    "equation": "N_00 * ( N_01 - N_00 )"
+  },
+  {
+    "problem": "Nancy has N_00 black balloons . Mary has N_01 times more black balloons than Nancy . How many black balloons does Mary have now ?",
+    "equation": "N_00 * N_01"
+  },
+  {
+    "problem": "You want to give your baseball cards to your N_00 best friends . You have N_01 baseball cards . How many would each get , if you share them equally ?",
+    "equation": "N_01 / N_00"
+  },
+  {
+    "problem": "Mike made N_00 dollars mowing lawns over the summer . If he spent N_01 dollars buying new mower blades , how many N_02 dollar games could he buy with the money he had left ?",
+    "equation": "( N_00 - N_01 ) / N_02"
+  },
+  {
+    "problem": "There are N_00 marbles in each box . How many marbles are in N_01 boxes ?",
+    "equation": "N_00 * N_01"
+  },
+  {
+    "problem": "Martha starts with N_00 cards . She gets N_01 more from Emily . How many cards does Martha end with ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "A vase can hold N_00 flowers . If you had N_01 carnations and N_02 roses , how many vases would you need to hold the flowers ?",
+    "equation": "( N_01 + N_02 ) / N_00"
+  },
+  {
+    "problem": "Gary had N_00 dollars . He spent N_01 dollars on a pet snake . How many dollars did Gary have left ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "Lucy has an aquarium with N_00 fish . Lucy wants to buy N_01 more fish . How many fish would Lucy have then ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "There were N_00 friends playing a video game online when N_01 more players joined the game . If each player had N_02 lives , how many lives did they have total ?",
+    "equation": "N_00 * ( N_00 + N_01 )"
+  },
+  {
+    "problem": "Teresa starts with N_00 bananas . She gets N_01 more from Rachel . How many bananas does Teresa end with ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "Edward and his friend were buying trick decks from the magic shop for N_00 dollars each . How much did they spend if Edward bought N_01 decks and his friend bought N_02 decks ?",
+    "equation": "N_00 * ( N_00 + N_01 )"
+  },
+  {
+    "problem": "Mike is at the library helping put away books . There are N_00 book to put away total but a librarian takes N_01 of them and leaves Mike with the rest . If he can fit N_02 books on a shelf , how many shelves will he need ?",
+    "equation": "( N_00 - N_01 ) / N_02"
+  },
+  {
+    "problem": "Edward earned N_00 dollars for each lawn he mowed . If he had N_01 lawns to mow , but forgot to mow N_02 of them , how much money did he actually earn ?",
+    "equation": "N_00 * ( N_01 - N_02 )"
+  },
+  {
+    "problem": "A chef needs to cook N_00 potatoes . He has already cooked N_01 . If each potato takes N_02 minutes to cook , how long will it take him to cook the rest ?",
+    "equation": "N_02 * ( N_00 - N_01 )"
+  },
+  {
+    "problem": "Benny goes to lunch with Sally and Sandy . The total bill came to N_00 dollars . They decided to equally split up the bill , how much will each person have to pay ?",
+    "equation": "N_00 / 3.0"
+  },
+  {
+    "problem": "Adam earned N_00 dollars for each lawn he mowed . If he had N_01 lawns to mow , but forgot to mow N_02 of them , how much money did he actually earn ?",
+    "equation": "N_00 * ( N_01 - N_02 )"
+  },
+  {
+    "problem": "Mike joined his school 's band . He bought a trumpet for $ N_00 , and a song book which was $ N_01 . How much did Mike spend at the music store ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "Melanie bought a Batman game for $ N_00 , a strategy game for $ N_01 , and a Superman game for $ N_02 . Melanie already owns N_03 games . How much did Melanie spend on video games ?",
+    "equation": "N_00 + N_01 + N_02"
+  },
+  {
+    "problem": "The cafeteria had N_00 apples . For lunch they handed out N_01 to students and decided to use the rest to make pies . If each pie takes N_02 apples , how many pies could they make ?",
+    "equation": "( N_00 - N_01 ) / N_02"
+  },
+  {
+    "problem": "For Halloween Haley scored N_00 pieces of candy . She ate N_01 pieces the first night and then her sister gave her N_02 more pieces . How many pieces of candy does Haley have now ?",
+    "equation": "N_00 + N_02 - N_01"
+  },
+  {
+    "problem": "If your gross pay is N_00 dollars , while your net pay is N_01 dollars , how much do you pay in taxes ? Assume that all tax dollars are not included in net pay .",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "Ron weighed N_00 colored metal balls during a science class . The blue ball weighed N_01 pounds and the brown ball weighed N_02 pounds . If Ron places both balls on the scale at the same time , what will the scale read ?",
+    "equation": "N_01 + N_02"
+  },
+  {
+    "problem": "It rained N_00 inches on Saturday and N_01 inches on Sunday . How much did it rain on Saturday and Sunday combined ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "A waiter had N_00 customers to wait on . If N_01 customers left and he got another N_02 customers , how many customers would he have ?",
+    "equation": "N_00 + N_02 - N_01"
+  },
+  {
+    "problem": "Maria was making baggies of cookies with N_00 cookies in each bag . If she had N_01 chocolate chip cookies and N_02 oatmeal cookies , how many baggies could she make ?",
+    "equation": "( N_01 + N_02 ) / N_00"
+  },
+  {
+    "problem": "Each child has N_00 oranges . If there are N_01 children , how many oranges are there in total ?",
+    "equation": "N_00 * N_01"
+  },
+  {
+    "problem": "Shirley sold N_00 boxes of Do - Si - Dos . How many cases of N_01 boxes , plus extra boxes does Shirley need to deliver ?",
+    "equation": "N_00 / N_01"
+  },
+  {
+    "problem": "Wendy uploaded N_00 pictures from her phone and N_01 from her camera to facebook . If she sorted the pics into N_02 different albums with the same amount of pics in each album , how many pictures were in each of the albums ?",
+    "equation": "( N_00 + N_01 ) / N_02"
+  },
+  {
+    "problem": "In one week , an airplane pilot flew N_00 miles on Tuesday and N_01 miles on Thursday . If the pilot flies the same number of miles N_02 weeks in a row , how many miles does the pilot fly in all ?",
+    "equation": "N_02 * ( N_00 + N_01 )"
+  },
+  {
+    "problem": "David has N_00 bananas . He gets N_01 more from Christopher . Later , David buys N_02 cards at the store . How many bananas does David have in all ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "Carol was playing a trivia game . In the first round she scored N_00 points and in the second round she scored N_01 points . In the last round she lost N_02 points . How many points did she have at the end of the game ?",
+    "equation": "N_00 + N_01 - N_02"
+  },
+  {
+    "problem": "Debby bought two coloring books . One had N_00 pictures and the other had N_01 . After one week she had already colored N_02 of the pictures . How many pictures does she still have to color ?",
+    "equation": "N_00 + N_01 - N_02"
+  },
+  {
+    "problem": "Sam , Dan , Tom , and Keith each have N_00 Pokemon cards . How many Pokemon cards do they have in all ?",
+    "equation": "4.0 * N_00"
+  },
+  {
+    "problem": "Paige had N_00 songs on her mp3 player . If she deleted N_01 old songs from it and then added N_02 new songs , how many songs does she have on her mp3 player ?",
+    "equation": "N_00 + N_02 - N_01"
+  },
+  {
+    "problem": "Misha has N_00 dollars . How many more dollars does she have to earn to have N_01 dollars ?",
+    "equation": "N_01 - N_00"
+  },
+  {
+    "problem": "There are N_00 children in the classroom , each student will get N_01 dozen pencils . How many pencils will the teacher have to give out ?",
+    "equation": "N_00 * ( N_01 * 12.0 )"
+  },
+  {
+    "problem": "Robin had N_00 pieces of gum . Her brother gave her some more pieces . Now Robin has N_01 pieces in all . How many pieces of gum did Robin 's brother give her ?",
+    "equation": "N_01 - N_00"
+  },
+  {
+    "problem": "Some insects called aphids attack a large farm . In response , the farmer releases ladybugs onto the fields . There are N_00 ladybugs with spots and N_01 ladybugs without spots . How many ladybugs are there in all ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "At the arcade Dave won N_00 tickets . If he spent N_01 tickets on a beanie and later won N_02 more tickets , how many would he have ?",
+    "equation": "N_00 + N_02 - N_01"
+  },
+  {
+    "problem": "At the arcade Cody won N_00 tickets . If he spent N_01 tickets on a beanie and later won N_02 more tickets , how many would he have ?",
+    "equation": "N_00 + N_02 - N_01"
+  },
+  {
+    "problem": "Jane \u2019 s mom picked cherry tomatoes from their backyard . If she gathered N_00 cherry tomatoes and is about to place them in small jars which can contain N_01 cherry tomatoes at a time , how many jars will she need ?",
+    "equation": "N_00 / N_01"
+  },
+  {
+    "problem": "A textbook costs a bookstore N_00 dollars , and the store sells it for N_01 dollars . Find the amount of profit based on the selling price .",
+    "equation": "N_01 - N_00"
+  },
+  {
+    "problem": "Diana has N_00 erasers . If she shares them among N_01 friends , how many erasers does each friend get ?",
+    "equation": "N_00 / N_01"
+  },
+  {
+    "problem": "A group of N_00 friends went into a restaurant . The chef already had N_01 chicken wings cooked but cooked N_02 more for the group . If they each got the same amount how many would each person get ?",
+    "equation": "( N_01 + N_02 ) / N_00"
+  },
+  {
+    "problem": "There were N_00 friends playing a video game online when N_01 more players joined the game . If each player had N_02 lives , how many lives did they have total ?",
+    "equation": "N_02 * ( N_00 + N_00 )"
+  },
+  {
+    "problem": "If Norma wandered for N_00 hours at N_01 miles per hour . How far did Norma go ?",
+    "equation": "N_00 * N_01"
+  },
+  {
+    "problem": "Keith spent $ N_00 on speakers , $ N_01 on a CD player , and $ N_02 on new tires . He wanted N_03 CD 's for $ N_04 , but did n't buy them . In total , how much did he spend ?",
+    "equation": "N_00 + N_01 + N_02"
+  },
+  {
+    "problem": "Tom found N_00 seashells but N_01 were broken . How many unbroken seashells did Tom find ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "Frank had N_00 dollars . At the store he spent $ N_01 on a new game . If he got another N_02 dollars for his allowance , how much money does he have now ?",
+    "equation": "N_00 + N_02 - N_01"
+  },
+  {
+    "problem": "Mike made N_00 dollars mowing lawns over the summer . If he spent N_01 dollars buying new mower blades , how many N_02 dollar games could he buy with the money he had left ?",
+    "equation": "( N_00 - N_01 ) / N_02"
+  },
+  {
+    "problem": "There are N_00 people on the Green Bay High track team . If a relay race is N_01 meters long , how far will each team member have to run ?",
+    "equation": "N_01 / N_00"
+  },
+  {
+    "problem": "N_00 birds were sitting in a tree . N_01 more birds flew up to the tree . How many birds were there altogether in the tree ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "Joan found N_00 seashells on the beach . she gave Sam some of her seashells . She has N_01 seashell . How many seashells did she give to Sam ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "There were originally N_00 houses in Lincoln County . During a housing boom , developers built N_01 more . How many houses are there now in Lincoln County ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "Willie has N_00 bananas . Charles has N_01 bananas . He loses N_02 . How many bananas will Willie have ?",
+    "equation": "N_00 - N_02"
+  },
+  {
+    "problem": "Joan has N_00 books . Tom has N_01 books . How many books do they have together ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "Oliver was organizing his baseball cards in a binder with N_00 on each page . If he had N_01 new cards and N_02 old cards to put in the binder , how many pages would he use ?",
+    "equation": "( N_01 + N_02 ) / N_00"
+  },
+  {
+    "problem": "A trivia team had N_00 members total , but during a game N_01 members did n't show up . If each member that did show up scored N_02 points , how many points were scored total ?",
+    "equation": "N_02 * ( N_00 - N_01 )"
+  },
+  {
+    "problem": "Kelly had N_00 apples . How many more apples does Kelly need to pick to have N_01 apples altogether ?",
+    "equation": "N_01 - N_00"
+  },
+  {
+    "problem": "Jonathan wants to buy a dictionary that costs $ N_00 , a dinosaur book that costs $ N_01 , and a children 's cookbook that costs $ N_02 . He has saved $ N_03 from his allowance . How much more money does Jonathan need to buy all three books ?",
+    "equation": "N_00 + N_01 + N_02 - N_03"
+  },
+  {
+    "problem": "There were N_00 geese and N_01 ducks in the marsh . How many birds were in the marsh ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "Joseph has N_00 candies . Kathy gives Joseph N_01 more . How many candies does Joseph have in all ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "There are N_00 oranges in a box . Paula takes N_01 oranges . How many are left ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "Wendy ran N_00 miles and walked N_01 miles . How much farther did Wendy run than walk ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "N_00 birds were sitting in a tree . Some more fly up to the tree . Then there were N_01 birds in the tree . How many more flew up to the tree ?",
+    "equation": "N_01 - N_00"
+  },
+  {
+    "problem": "Eve ran N_00 mile and walked N_01 mile . How much farther did Eve run than walk ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "Joan purchased a basketball game for $ N_00 , and a racing game for $ N_01 . How much did Joan spend on video games ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "Dan had N_00 potatoes and N_01 cantelopes in the garden . The rabbits ate N_02 of the potatoes . How many potatoes does Dan now have ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "Omar and Karen made egg rolls to share at the school potluck . Omar rolled N_00 egg rolls . Karen rolled N_01 egg rolls . What is the total number of egg rolls Omar and Karen rolled ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "Melanie had N_00 dimes in her bank . Her dad gave her N_01 dimes and her mother gave her N_02 dimes . How many dimes does Melanie have now ?",
+    "equation": "N_00 + N_01 + N_02"
+  },
+  {
+    "problem": "There were N_00 friends playing a video game online when N_01 players quit . If each player left had N_02 lives , how many lives did they have total ?",
+    "equation": "N_01 * ( N_00 - N_01 )"
+  },
+  {
+    "problem": "For the school bake sale Maria made N_00 cupcakes . If she sold N_01 of them and then made N_02 more , how many cupcakes would she have ?",
+    "equation": "N_00 + N_02 - N_01"
+  },
+  {
+    "problem": "She counted her crayons and found out that she has N_00 crayons which she will place in crayon boxes . Every box can contain N_01 crayons . How many boxes does she need ?",
+    "equation": "N_00 / N_01"
+  },
+  {
+    "problem": "Mrs. Hilt saw a rollercoaster . N_00 students rode the rollercoaster every N_01 minutes . How many students rode the rollercoaster in N_02 minutes ?",
+    "equation": "N_00 * ( N_02 / N_01 )"
+  },
+  {
+    "problem": "Ned was helping the cafeteria workers pick up lunch trays , but he could only carry N_00 trays at a time . If he had to pick up N_01 trays from one table and N_02 trays from another , how many trips will he make ?",
+    "equation": "( N_00 + N_00 ) / N_00"
+  },
+  {
+    "problem": "Jeremy strolled N_00 kilometers at N_01 kilometers per hour . How long did Jeremy stroll ?",
+    "equation": "N_00 / N_01"
+  },
+  {
+    "problem": "Jordan builds a model ' N_00 Mustang . If the model car is N_01 inches long and the scale is N_02 to N_03 , how many inches would the real Mustang be ?",
+    "equation": "N_01 * N_03"
+  },
+  {
+    "problem": "On N_00 consecutive passes , a football team gains N_01 yards , loses N_02 yards , and gains N_03 yards . What number represents the total net yardage ?",
+    "equation": "N_01 - N_02 + N_03"
+  },
+  {
+    "problem": "David has N_00 boxes of stuffed toy dogs . Each box has N_01 dogs in it . How many dogs are there in all ?",
+    "equation": "N_00 * N_01"
+  },
+  {
+    "problem": "Mrs. Hilt went to a concert . A total of N_00 people attended the concert . The next week , Mrs. Hilt went to a second concert , which had N_01 more people in attendance . How many people were at the second concert ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "Kendall is learning to drive , so this weekend she practiced driving N_00 mile with her mother and another N_01 mile with her father . How far did Kendall drive in all ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "Edward made N_00 dollars mowing lawns over the summer . If he spent N_01 dollars buying new mower blades , how many N_02 dollar games could he buy with the money he had left ?",
+    "equation": "( N_00 - N_01 ) / N_02"
+  },
+  {
+    "problem": "Jazmin had N_00 dolls and Geraldine had N_01 dolls . If they put their dolls together , how many would they have ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "For the school bake sale Chloe made N_00 cupcakes . If she sold N_01 of them and then made N_02 more , how many cupcakes would she have ?",
+    "equation": "N_00 + N_02 - N_01"
+  },
+  {
+    "problem": "For the school bake sale Carol made N_00 cupcakes . If she sold N_01 of them and then made N_02 more , how many cupcakes would she have ?",
+    "equation": "N_00 + N_02 - N_01"
+  },
+  {
+    "problem": "John weighs N_00 pounds . Roy weighs N_01 pounds . How much heavier is John than Roy ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "Tom has N_00 violet balloons , he gave Fred N_01 of the balloons . How many violet balloons does he now have ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "There are N_00 fishbowls . Each fishbowl has N_01 fish . How many fish are there ?",
+    "equation": "N_00 * N_01"
+  },
+  {
+    "problem": "While shopping for music online , Faye bought N_00 country albums and N_01 pop albums . Each album came with a lyric sheet and had N_02 songs . How many songs did Faye buy total ?",
+    "equation": "N_02 * ( N_00 + N_01 )"
+  },
+  {
+    "problem": "Karen has N_00 crayons . Cindy has N_01 crayons . How many more crayons does Karen have than Cindy ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "Joan 's high school played N_00 baseball games this year , N_01 of the games were played at night . She attended N_02 games . How many baseball games did Joan miss ?",
+    "equation": "N_00 - N_02"
+  },
+  {
+    "problem": "Priya needs N_00 cupcakes for a birthday party . She already has N_01 chocolate cupcakes and N_02 vanilla cupcakes . How many more cupcakes should Priya buy ?",
+    "equation": "N_00 - ( N_01 + N_02 )"
+  },
+  {
+    "problem": "Scarlett made a fruit salad with N_00 pound of melon and N_01 pound of berries . How many pounds of fruit did Scarlett use in all ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "A restaurant served N_00 slices of pie during lunch and N_01 during dinner today . It served N_02 of them yesterday . How many slices of pie were served today ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "Robin was making baggies of cookies with N_00 cookies in each bag . If she had N_01 chocolate chip cookies and N_02 oatmeal cookies , how many baggies could she make ?",
+    "equation": "( N_01 + N_02 ) / N_00"
+  },
+  {
+    "problem": "Last year , egg producers in Douglas County produced N_00 eggs . This year , those same farms produced N_01 eggs . How many more eggs did the farms produce this year ?",
+    "equation": "N_01 - N_00"
+  },
+  {
+    "problem": "Victor and his friend were buying trick decks from the magic shop for N_00 dollars each . How much did they spend if Victor bought N_01 decks and his friend bought N_02 decks ?",
+    "equation": "N_00 * ( N_01 + N_02 )"
+  },
+  {
+    "problem": "There are N_00 eggs in a box . Harry takes N_01 eggs . How many are left ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "The school is planning a field trip . There are N_00 students and N_01 seats on each school bus . How many buses are needed to take the trip ?",
+    "equation": "N_00 / N_01"
+  },
+  {
+    "problem": "Jonah added N_00 cup of yellow raisins and N_01 cup of black raisins to a batch of trail mix . How many cups of raisins did Jonah add in all ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "Megan was selling her necklaces at a garage sale . She sold N_00 bead necklaces and N_01 gem stone necklaces . If each necklace cost N_02 dollars , how much money did she earn ?",
+    "equation": "N_02 * ( N_00 + N_01 )"
+  },
+  {
+    "problem": "Brandy made trail mix for a backpacking trip . She used N_00 pound of peanuts , N_01 pound of chocolate chips , and N_02 pound of raisins . How many pounds of trail mix did Brandy make ?",
+    "equation": "N_00 + N_00 + N_02"
+  },
+  {
+    "problem": "Jovana filled her bucket with N_00 pounds of shells . If she adds N_01 more pounds of shell to fill her bucket , how many pounds does she have ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "Robin had N_00 songs on her mp3 player . If she deleted N_01 old songs from it and then added N_02 new songs , how many songs does she have on her mp3 player ?",
+    "equation": "N_00 + N_02 - N_01"
+  },
+  {
+    "problem": "Sara 's high school played N_00 basketball games this year . The team won most of their games . They were defeated during N_01 games . How many games did they win ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "There are N_00 oak trees currently in the park . Park workers had to cut down N_01 oak trees that were damaged . How many oak trees will the park have when the workers are finished ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "The school cafeteria ordered N_00 red apples and N_01 green apples for students lunches . But , if only N_02 students wanted fruit , how many extra did the cafeteria end up with ?",
+    "equation": "N_00 + N_01 - N_02"
+  },
+  {
+    "problem": "There are N_00 pencils in the drawer . Mike placed N_01 more pencils in the drawer . How many pencils are now there in total ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "On Friday , Sam spent N_00 pennies on ice cream . The next day , Sam spent N_01 dimes on baseball cards . All in all , how much money did Sam spend ?",
+    "equation": "N_00 * 0.01 + N_01 * 0.1"
+  },
+  {
+    "problem": "For Halloween Katie and her sister combined the candy they received . Katie had N_00 pieces of candy while her sister had N_01 . If they ate N_02 pieces the first night , how many pieces do they have left ?",
+    "equation": "N_00 + N_01 - N_00"
+  },
+  {
+    "problem": "Sam found N_00 seashells on the beach , he gave Joan N_01 of the seashells . How many seashells does he now have ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "When Jake had N_00 cat , he needed to serve N_01 can of cat food each day . Now that Jake has adopted a second cat , he needs to serve a total of N_02 can each day . How much extra food is needed to feed the second cat ?",
+    "equation": "N_02 - N_01"
+  },
+  {
+    "problem": "Mike invited N_00 friends to a birthday party , but N_01 could n't come . If he wanted to buy enough cupcakes so each person could have exactly N_02 , how many should he buy ?",
+    "equation": "N_02 * ( N_00 - N_01 )"
+  },
+  {
+    "problem": "Each chocolate bar in a box cost $ N_00 . If a box had N_01 bars total and Zoe sold all but N_02 bars , how much money would she have made ?",
+    "equation": "N_00 * ( N_01 - N_00 )"
+  },
+  {
+    "problem": "Sarah had some trucks . She gave N_00 to Jeff , and now she has N_01 trucks left . How many trucks did Sarah have to start with ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "Mary had N_00 baseball cards , and N_01 were torn . Fred gave Mary N_02 new baseball cards . Mary bought N_03 baseball cards . How many baseball cards does Mary have now ?",
+    "equation": "N_00 + N_02 + N_03"
+  },
+  {
+    "problem": "I read N_00 pages of my English book yesterday . Today , I read N_01 pages . What is the total number of pages did I read ?",
+    "equation": "N_00 + N_01"
+  },
+  {
+    "problem": "Joan bought toy cars for $ N_00 , a skateboard for $ N_01 , and got toy trucks for $ N_02 . She spent $ N_03 on pants . In total , how much did Joan spend on toys ?",
+    "equation": "N_00 + N_01 + N_02"
+  },
+  {
+    "problem": "Nicole found an orange caterpillar and a green caterpillar in her backyard . The green caterpillar was N_00 inches long and the orange caterpillar was N_01 inches long . How much longer was the green caterpillar than the orange caterpillar ?",
+    "equation": "N_00 - N_01"
+  },
+  {
+    "problem": "On Saturday , Sara spent $ N_00 each on N_01 tickets to a movie theater . Sara also rented a movie for $ N_02 , and bought a movie for $ N_03 . How much money in total did Sara spend on movies ?",
+    "equation": "N_00 * N_01 + N_02 + N_03"
+  }
+]
