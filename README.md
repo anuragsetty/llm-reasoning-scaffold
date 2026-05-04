@@ -170,4 +170,4 @@ Configuration lives in `pyproject.toml` (`pytest`, optional formatter/linter via
 
 ## License
 
-MIT (align with your upstream policy if different).
+MIT 
