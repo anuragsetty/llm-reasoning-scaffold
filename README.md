@@ -6,7 +6,7 @@ A clean, end-to-end **agentic learning** pipeline for math word problems (MAWPS-
 
 ## Executive Summary
 
-This repository is designed as a portfolio-grade **LLM systems** example aligned with a senior practitioner background (Physics PhD, 10+ years in data science). It emphasizes the engineering discipline expected in applied ML and LLM teams: modular architecture, reproducibility, tests that avoid heavy model downloads, and clear separation between library code and notebooks.
+This repository is designed as a portfolio-grade **LLM systems** project for a senior practitioner background (Physics PhD, 10+ years in data science). It emphasizes the engineering discipline expected in applied ML and LLM teams: modular architecture, reproducibility, tests that avoid heavy model downloads, and clear separation between library code and notebooks.
 
 **What reviewers should notice quickly:**
 
